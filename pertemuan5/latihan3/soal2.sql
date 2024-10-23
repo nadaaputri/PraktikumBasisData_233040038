@@ -1,2 +1,2 @@
-ALTER TABLE mahasiswa
-ALTER COLUMN status_mahasiswa BOOLEAN;
+ALTER TABLE [dbo].[Mahasiswa]
+ADD status_mahasiswa TINYINT;
